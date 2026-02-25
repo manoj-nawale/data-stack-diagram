@@ -175,6 +175,10 @@
     "name": "DuckDB",
     "category": "Database"
   },
+  "docker": {
+    "name": "Docker",
+    "category": "Containerization "
+  },
   "erathos": {
     "name": "Erathos",
     "category": "ETL"
