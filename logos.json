@@ -177,7 +177,7 @@
   },
   "docker": {
     "name": "Docker",
-    "category": "Containerization "
+    "category": "Containerization"
   },
   "erathos": {
     "name": "Erathos",
